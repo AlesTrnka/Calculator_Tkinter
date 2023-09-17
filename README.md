@@ -1,4 +1,4 @@
-# Calculator_Tkinter
+# Calculator_Tkinter_OOP
 Kalkulačka v Python modulu Tkinter, vytvořena metodikou objektově orientovaného programování.
 
 
